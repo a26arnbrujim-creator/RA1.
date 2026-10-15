@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productes>
+    <producte id="1">
+        <nom>Monitor 24"</nom>
+        <categoria>Pantalles</categoria>
+        <preu>159.90</preu>
+        <estoc>12</estoc>
+    </producte>
+    <producte id="2">
+        <nom>Teclat mecànic</nom>
+        <categoria>Perifèrics</categoria>
+        <preu>69.90</preu>
+        <estoc>8</estoc>
+    </producte>
+    <producte id="3">
+        <nom>Ratolí sense fils</nom>
+        <categoria>Perifèrics</categoria>
+        <preu>29.95</preu>
+        <estoc>24</estoc>
+    </producte>
+    <producte id="4">
+        <nom>SSD 1 TB</nom>
+        <categoria>Emmagatzematge</categoria>
+        <preu>79.50</preu>
+        <estoc>5</estoc>
+    </producte>
+</productes>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:botiga="https://exemple.cat/botiga"
+          xmlns:asseguranca="https://exemple.cat/assegurances">
+ 
+    <botiga:producte>
+        <botiga:nom>Monitor</botiga:nom>
+    </botiga:producte>
+ 
+    <asseguranca:producte>
+        <asseguranca:nom>Assegurança Premium</asseguranca:nom>
+    </asseguranca:producte>
+ 
+</document>
